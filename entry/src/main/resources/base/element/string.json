@@ -1,0 +1,74 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "app_name",
+      "value": "Lifecycle Context"
+    },
+    {
+      "name": "app_title",
+      "value": "System Inspector"
+    },
+    {
+      "name": "label_bundle",
+      "value": "Bundle:"
+    },
+    {
+      "name": "label_module",
+      "value": "Module:"
+    },
+    {
+      "name": "label_language",
+      "value": "Language:"
+    },
+    {
+      "name": "label_stage_mode",
+      "value": "StageMode:"
+    },
+    {
+      "name": "label_area",
+      "value": "Area:"
+    },
+    {
+      "name": "label_worker_path",
+      "value": "Worker:"
+    },
+    {
+      "name": "label_lifecycle_log",
+      "value": "Lifecycle Events"
+    },
+    {
+      "name": "btn_switch_to_el1",
+      "value": "Switch to EL1"
+    },
+    {
+      "name": "btn_switch_to_el2",
+      "value": "Switch to EL2"
+    },
+    {
+      "name": "btn_switch_area",
+      "value": "Switch Area"
+    },
+    {
+      "name": "btn_send_worker",
+      "value": "Send to Worker"
+    },
+    {
+      "name": "btn_sending",
+      "value": "Sending..."
+    }
+
+
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "float": [
+    {
+      "name": "page_text_font_size",
+      "value": "50fp"
+    },
+    {
+      "name": "title_font_size",
+      "value": "18fp"
+    },
+    {
+      "name": "label_font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "info_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "padding_xs",
+      "value": "4vp"
+    },
+    {
+      "name": "padding_md",
+      "value": "12vp"
+    }
+  ]
+}
